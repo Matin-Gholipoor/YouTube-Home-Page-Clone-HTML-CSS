@@ -1,8 +1,8 @@
-# YouTube Landing Page Clone (HTML & CSS)
+# YouTube Home Page Clone (HTML & CSS)
 
 ## Description
 
-This project is a simple clone of the YouTube landing page built using only HTML and CSS. It was created as a final project while following an online HTML-CSS course.
+This project is a simple clone of the YouTube Home page built using only HTML and CSS. It was created as a final project while following an online HTML-CSS course.
 
 **Note:** This project is not responsive and does not include any JavaScript. It is intended solely for learning purposes.
 
